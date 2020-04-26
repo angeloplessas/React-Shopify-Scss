@@ -1,0 +1,19 @@
+.block_content_new {
+    right: -100px;
+    width: 40%;
+    height: 100%;
+    position: absolute;
+    min-height: 1px;
+}
+
+.mid_image {
+    position: absolute;
+    width: 30%;
+    height: 36%;
+    right: 35%;
+    background-image: url('../../../assets/img/home/new-preview-profile.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    z-index: 5;
+    top: 55%;
+}

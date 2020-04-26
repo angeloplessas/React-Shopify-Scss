@@ -1,0 +1,9 @@
+.btn-getStarted-new {
+    background-color: rgb(211, 180, 6);
+    border: 3px solid black;
+}
+
+.btn-login-new:hover {
+    color: black;
+    font-weight: bold;
+}
